@@ -1,5 +1,3 @@
-# Abdullahi-portfolio 
-
 # Abdullahi Wadi – Cloud Support & AWS Portfolio
 
 Welcome! I’m a **Cloud Support Associate** with hands-on experience in AWS services, cloud troubleshooting, and IT support. I deploy and manage AWS resources like **EC2, S3, IAM, CloudWatch, and CloudTrail**, while supporting both cloud and on-prem systems. I’ve configured IAM policies, secured S3 buckets, troubleshooted network and connectivity issues, and helped end users resolve cloud support requests.  
