@@ -1,8 +1,10 @@
-# Abdullahi Wadi – Cloud Support & AWS Portfolio
+👋 Hi, I’m Abdullahi Wadi!
 
-Welcome! 
+Welcome to my portfolio!
+I graduated from San Diego State University with a degree in Management Information Systems specializing in cybersecurity.
+I’m passionate about cloud computing, support, and AWS, and I use this space to share my projects, ideas, and learning journey.
 
-I’m a **Cloud Support Associate** with hands-on experience in AWS services, cloud troubleshooting, and IT support. I deploy and manage AWS resources like **EC2, S3, IAM, CloudWatch, and CloudTrail**, while supporting both cloud and on-prem systems. I’ve configured IAM policies, secured S3 buckets, troubleshooted network and connectivity issues, and helped end users resolve cloud support requests.  
+Feel free to explore my repositories, and thanks for stopping by! 🚀
 
 ---
 
