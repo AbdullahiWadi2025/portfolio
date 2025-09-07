@@ -29,9 +29,14 @@ Feel free to explore my repositories, and thanks for stopping by! 🚀
 - Automated **CloudWatch monitoring** and enforced **IAM least-privilege policies**  
 - Configured **S3 bucket security** to prevent unauthorized access  
 
-### 3. System Security & Hardening
-- Conducted vulnerability assessments using **STIG** and **SCC SCAP benchmarks**  
-- Applied OS hardening to improve security and reduce attack surface  
+### 3. AWS CloudFront + S3 Portfolio Website
+**Description:** Hosted a static portfolio website using **Amazon S3** for storage and **CloudFront** as a CDN.  
+**Highlights:**
+- Cost-optimized deployment using AWS Free Tier
+- Secure setup with Origin Access Control (OAC)
+- Architecture diagram and screenshots included  
+- 🔗 [View project on GitHub](https://github.com/AbdullahiWadi2025/aws-cloudfront-s3-portfolio-site)
+
 
 ---
 
