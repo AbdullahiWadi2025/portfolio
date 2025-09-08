@@ -5,7 +5,7 @@ Welcome to my portfolio! I graduated from San Diego State University with a degr
 Feel free to explore my repositories, and thanks for stopping by! 🚀  
 
 ---
-*** Resume
+# Resume
 [Abdullahi Wadi Resume](https://github.com/user-attachments/files/22202444/Abdullahi.Wadi.Resume.C.pdf)
 
 
