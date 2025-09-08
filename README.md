@@ -6,8 +6,7 @@ Feel free to explore my repositories, and thanks for stopping by! 🚀
 
 ---
 
-## 📄 Resume
-[Abdullahi Wadi Resume ]([Abdullahi.Wadi.Resume.C.pdf)
+[Download PDF Resume](Abdullahi_Wadi_Resume_C.pdf)
 
 
 ## 💻 Projects
