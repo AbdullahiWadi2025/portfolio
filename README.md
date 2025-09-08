@@ -7,7 +7,7 @@ Feel free to explore my repositories, and thanks for stopping by! 🚀
 ---
 
 ## 📄 Resume
-- **[Abdullahi Wadi Resume ](Abdullahi_Wadi_Resume.pdf)
+[Abdullahi Wadi Resume ](Abdullahi_Wadi_Resume.pdf)
 
 
 ## 💻 Projects
