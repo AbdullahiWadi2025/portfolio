@@ -6,7 +6,9 @@ Feel free to explore my repositories, and thanks for stopping by! 🚀
 
 ---
 # Resume
-[Abdullahi Wadi Resume](https://github.com/user-attachments/files/22202444/Abdullahi.Wadi.Resume.C.pdf)
+[Abdullahi Wadi Resume](https://github.com/user-attachments/files/22228079/Abdullahi.Wadi.Resume.C.2.pdf)
+
+
 
 
 
